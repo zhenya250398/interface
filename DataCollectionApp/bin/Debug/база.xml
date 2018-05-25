@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Employee>
+    <Id>1</Id>
+    <FIO>Грищенко</FIO>
+    <Address />
+    <Tel>(   )    -</Tel>
+    <Department>
+      <Id>1</Id>
+      <Name>ртф</Name>
+    </Department>
+    <Gender>Male</Gender>
+    <Password>-1461557367</Password>
+    <Birthday>2018-05-21T23:00:16.2010415+06:00</Birthday>
+    <Rewards />
+  </Employee>
+  <Employee>
+    <Id>2</Id>
+    <FIO>Админ</FIO>
+    <Address />
+    <Tel>(   )    -</Tel>
+    <Department>
+      <Id>1</Id>
+      <Name>ртф</Name>
+    </Department>
+    <Gender>Male</Gender>
+    <Password>-799563487</Password>
+    <Birthday>2018-05-21T23:02:38.0113731+06:00</Birthday>
+    <Rewards />
+  </Employee>
+  <Employee>
+    <Id>3</Id>
+    <FIO>Гильметдинов</FIO>
+    <Address />
+    <Tel>(123) 456-789</Tel>
+    <Department>
+      <Id>1</Id>
+      <Name>ртф</Name>
+    </Department>
+    <Gender>Male</Gender>
+    <Password>-1058272798</Password>
+    <Birthday>2018-05-22T09:47:59.5436138+06:00</Birthday>
+    <Rewards />
+  </Employee>
+  <Employee>
+    <Id>4</Id>
+    <FIO>Админ</FIO>
+    <Address />
+    <Tel>(   )    -</Tel>
+    <Department>
+      <Id>1</Id>
+      <Name>ртф</Name>
+    </Department>
+    <Gender>Male</Gender>
+    <Password>-1461557367</Password>
+    <Birthday>2018-05-22T09:54:24.443135+06:00</Birthday>
+    <Rewards />
+  </Employee>
+</ArrayOfEmployee>

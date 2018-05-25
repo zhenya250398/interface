@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDepartment xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Department>
+    <Id>1</Id>
+    <Name>ртф</Name>
+  </Department>
+</ArrayOfDepartment>
